@@ -1,0 +1,35 @@
+12.30.21
+
+Thoughts
+
+    Build web1 / web2 chat app
+
+Topics
+
+    Get gun.js
+    
+        > npm install gun
+
+    svelte.js
+    https://github.com/sveltejs/svelte#README
+
+        https://svelte.dev/blog/the-easiest-way-to-get-started
+
+        Use the Svelte CLI (Update from 2019: with Svelte 3 the CLI was deprecated and we now use sirv-cli in our template. 
+
+        Tutorial completed thru here:
+            https://svelte.dev/examples/each-blocks
+
+    for build/deploy (?)
+    https://www.npmjs.com/package/sirv-cli
+
+Links
+
+    Main Video Tutorial
+    https://www.youtube.com/watch?v=J5x3OMXjgMc
+
+        from Aug 31 2021
+
+    https://github.com/fireship-io/gun-chat
+
+
