@@ -17,10 +17,8 @@ app.get('/messages', (req, res) => {
 
 app.post('/messages', (req, res) => {
     console.log(req.body)
-    try {   
-        const data = {user: req.body.user, message: req.body.message}
-        msgData.push(data)
-    } catch (e) {console.log(e)}
+    const data = {user: req.body.user, message: req.body.message}
+    msgData.push(data)
     res.json(msgData)
 })
 
