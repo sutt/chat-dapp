@@ -1,0 +1,14 @@
+[
+    {
+        "user": "foo",
+        "message": "hello world"
+    },
+    {
+        "user": "bar",
+        "message": "goodbye multiverse"
+    },
+    {
+        "user":"foo",
+        "message": "time is a flat circle"
+    }
+]
